@@ -4,10 +4,10 @@
 Hi, I'm Furkan and I am a 4th year Computer Engineering student at Yıldız Technical University. I started coding in high school. I am interested in the field of game development and currently working on game development with Unity. I have worked on web programming and created websites for companies, where I wrote both the frontend and backend code.  
   
 
--  I’m currently working on [Thats Me Project](https://github.com/furkanyuksell/Thats-Me/tree/main) and my final university project with a friend. I am looking forward to publishing the project once it is completed.  
+-  I’m currently working on [Thats Me Project](https://github.com/furkanyuksell/Thats-Me/tree/main) and my final university project with a friend. I am looking forward to publishing the project once it is completed. The project is currently in a private state on Github.  
 The type of game I developed for my university final project is a construction and management simulation with elements similar to Dwarf Fortress. It is a game where we manage a colony and improve living spaces, which can be played with friends.
 
--  I’m currently learning Unity Netcode for my final project.  
+-  I’m currently learning Unity Netcode and Lobby Service for my final project. 
   
 
 <br/>  
