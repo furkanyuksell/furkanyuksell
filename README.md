@@ -35,10 +35,13 @@ The type of game I developed for my university final project is a construction a
 
 
 <br/>  
-
 ## <div align="center">Connect with me</div>  
 <div align="center">
 <a href="https://github.com/furkanyuksell" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<div align="center">
+<a href="https://furkanyuksell.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/furkanyuksell" target="_blank">
